@@ -6,4 +6,4 @@ The data in these directories are associated with the <i>American Journal of Bot
 
 <b>Gene tree</b> folder contains newick gene trees for all genes discussed in the main and supplemental figures
 
-For raw data, please see the BioProject on SRA (to be created ASAP!)
+For raw data, please see the BioProject on SRA: PRJNA390069.
